@@ -13,4 +13,13 @@ Feature: ProfileInfo for the functionalities of profile page left pad( Name, Tim
          ProfileDescription for the fuctionalities of profile page description.
          
          ProfileDetails for the functionalities of profile page right pad( Languages, Skills, Education, Certification ).
+         
+SpecflowTest/Steps: The features steps.
+
+SpecflowPages/Helpers: The helper of WebDriver and WebElement.
+
+SpecflowPages/Pages: The pages implementions.
+
+
+
 
